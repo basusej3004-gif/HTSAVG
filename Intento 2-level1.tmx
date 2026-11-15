@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="es-VE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="es-VE">
+        <seg>How to Start a Vegetable Garden</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Professional Machine" changedate="20261114T205612Z" creationid="Professional Machine" creationdate="20261114T205612Z">
+        <seg>Cómo empezar un jardín de vegetales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-VE">
+        <seg>October 28, 2026</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Professional Machine" changedate="20261114T210120Z" creationid="Professional Machine" creationdate="20261114T210120Z">
+        <seg>Octubre 28 de 2026</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-VE">
+        <seg>Written By:Lauren LandersMaster Gardener and Contributing Writer</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Professional Machine" changedate="20261114T210045Z" creationid="Professional Machine" creationdate="20261114T210045Z">
+        <seg>Escrito por Lauren Landers, maestro jardinero y contribuidor de escritura.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

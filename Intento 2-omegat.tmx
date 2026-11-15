@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="es-VE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="es-VE">
+        <seg>How &lt;t0/&gt;to&lt;t1/&gt; &lt;t2/&gt;Start&lt;t3/&gt; a Vegetable Garden</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Professional Machine" changedate="20261114T205612Z" creationid="Professional Machine" creationdate="20261114T205612Z">
+        <seg>Cómo empezar un jardín de vegetales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-VE">
+        <seg>October 28, 2026</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Professional Machine" changedate="20261114T210120Z" creationid="Professional Machine" creationdate="20261114T210120Z">
+        <seg>Octubre 28 de 2026</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-VE">
+        <seg>Written&lt;t0/&gt; &lt;t1/&gt;By:&lt;t2/&gt;Lauren&lt;t3/&gt; &lt;t4/&gt;Landers&lt;t5/&gt;Master&lt;t6/&gt; Gardener and &lt;t7/&gt;Contributing&lt;t8/&gt; Writer</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Professional Machine" changedate="20261114T210045Z" creationid="Professional Machine" creationdate="20261114T210045Z">
+        <seg>Escrito por Lauren Landers, maestro jardinero y contribuidor de escritura.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
